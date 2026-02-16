@@ -1,0 +1,8 @@
+gradio
+pandas
+matplotlib
+speechrecognition
+pydub
+ffmpeg-python
+
+
